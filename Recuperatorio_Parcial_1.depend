@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656368157 source:c:\users\gonza\desktop\programacion 1\recuperatorio_parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
